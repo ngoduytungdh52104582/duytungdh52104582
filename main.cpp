@@ -13,9 +13,11 @@ int main(){
 	if(a %2 ==0){
 		cout << "day la so chan";
 	}
+
 	
 	if(a%2!==0){
 		cout <<"day la so le";
 	}
+
 	return 0;
 }
