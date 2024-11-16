@@ -18,7 +18,7 @@ int main(){
 	if(a%2!==0){
 		cout <<"day la so le";
 	}
-	if(a*1==5){
+	if(a*2==10){
 		cout <<"day la so 5";
 	}
 	return 0;
